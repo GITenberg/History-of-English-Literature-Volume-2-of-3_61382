@@ -1,5 +1,5 @@
 _repo: History-of-English-Literature-Volume-2-of-3_61382
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Clark, J. Scott (John Scott)
@@ -14,6 +14,9 @@ contributor:
     agent_name: Laun, Henry Van
     gutenberg_agent_id: '51351'
     url: http://www.gutenberg.org/2009/agents/51351
+covers:
+- cover_type: archival
+  image_path: 61382-h/images/inner_cover.jpg
 creator:
   author:
     agent_name: Taine, Hippolyte
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hippolyte_Taine
     - https://fr.wikipedia.org/wiki/Hippolyte_Taine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61382#History-of-English-Literature-Volume-2-of-3
 gutenberg_issued: '2020-02-11'
 gutenberg_type: Text
 identifiers:
